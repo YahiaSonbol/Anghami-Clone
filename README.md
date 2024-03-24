@@ -27,21 +27,22 @@ The project utilizes linked lists, queues, and stacks as the backbone data struc
 ## Screenshots
 
 #### Homepage:
-![homepage](homepage.jpg)
+![homepage](![homepage](https://github.com/YahiaSonbol/Anghami-Clone/assets/133225283/d27676f3-7ce6-43dd-b5c7-2c70e7d7ecc9)
+)
 #### Playlist:
-![playlists](playlist.jpg)
+![playlists](![playlist](https://github.com/YahiaSonbol/Anghami-Clone/assets/133225283/ce9206f7-3971-48ca-8d0d-35df09dc1d28)
+)
 #### Custom playlist menu:
-![createplaylist](createyourplaylist.jpg)
+![createplaylist](![createyourplaylist](https://github.com/YahiaSonbol/Anghami-Clone/assets/133225283/0e79fa88-2462-4fdb-addb-14219a47c134)
+)
 
 ## Contribution
-
 Our team:
-  - @RamzyBakir
-  - @YahiaSonbol
-  - @medo3alaa
+  - [@RamzyBakir](https://github.com/RamzyBakir)
+  - [@YahiaSonbol](https://github.com/YahiaSonbol)
+  - [@medo3alaa](https://github.com/medo3alaa)
   - @YoussefHazem
-  - @OmarElBayoumi
-
+  - @OmarElBayoumi
 ## Credits
 
 - [Anghami](https://www.anghami.com/) - Inspiration for the project layout and features.
