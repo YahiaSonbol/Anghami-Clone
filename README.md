@@ -24,13 +24,12 @@ Anghami Clone is a music player application developed as a project for the CS213
 
 The project utilizes linked lists, queues, and stacks as the backbone data structures. These are used to manage playlists, tracks, and playback options effectively.
 
-## Screenshots
-
 #### Homepage:
-
+![homepage](homepage.jpg)
 #### Playlist:
-
+![playlists](playlist.jpg)
 #### Custom playlist menu:
+![createplaylist](createyourplaylist.jpg)
 
 
 ## Contribution
