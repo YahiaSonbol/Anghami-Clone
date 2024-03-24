@@ -29,9 +29,9 @@ The project utilizes linked lists, queues, and stacks as the backbone data struc
 #### Homepage:
 ![homepage](homepage.jpg)
 #### Playlist:
-![playlists](playlist1.jpg)
+![playlists](playlist.jpg)
 #### Custom playlist menu:
-![createplaylist](createyourplaylistmenu.jpg)
+![createplaylist](createyourplaylist.jpg)
 
 ## Contribution
 
